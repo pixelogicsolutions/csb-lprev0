@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pixelogicsolutions.github.io/csb-lprev0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://pixelogicsolutions.github.io/csb-lprev0/static/js/main.a6291ebd.chunk.js",
+    "main.js.map": "https://pixelogicsolutions.github.io/csb-lprev0/static/js/main.a6291ebd.chunk.js.map",
+    "runtime-main.js": "https://pixelogicsolutions.github.io/csb-lprev0/static/js/runtime-main.292393a7.js",
+    "runtime-main.js.map": "https://pixelogicsolutions.github.io/csb-lprev0/static/js/runtime-main.292393a7.js.map",
+    "static/js/2.b21dc211.chunk.js": "https://pixelogicsolutions.github.io/csb-lprev0/static/js/2.b21dc211.chunk.js",
+    "static/js/2.b21dc211.chunk.js.map": "https://pixelogicsolutions.github.io/csb-lprev0/static/js/2.b21dc211.chunk.js.map",
+    "index.html": "https://pixelogicsolutions.github.io/csb-lprev0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://pixelogicsolutions.github.io/csb-lprev0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b21dc211.chunk.js.LICENSE.txt": "https://pixelogicsolutions.github.io/csb-lprev0/static/js/2.b21dc211.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.292393a7.js",
+    "static/js/2.b21dc211.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a6291ebd.chunk.js"
+  ]
+}
